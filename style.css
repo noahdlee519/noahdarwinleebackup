@@ -444,7 +444,7 @@ hr {
     .abouttext {
         margin-top: 5px;
         position: relative;
-        font-size: smaller;
+        font-size: larger;
         padding-left: calc(13% + (100vw - 700px) * (1 - 30) / (700 -  1000));
         padding-right: calc(13% + (100vw - 700px) * (1 - 30) / (700 -  1000));
         text-align:center;
