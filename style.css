@@ -381,7 +381,7 @@ hr {
         height: 3.6em;
         margin-top: -10px;
         background-color:#e68019;
-        z-index: 8;
+        z-index: 88;
     }
 
     .header li {
@@ -392,6 +392,7 @@ hr {
         margin-left: 1.8%;
         display: inline;
         font-size: 0.9em !important;
+        z-index: 87;
     }
 
     .header a {
@@ -399,6 +400,7 @@ hr {
         text-decoration: none;
         padding-bottom: 7px;
         padding-top: 7px;
+        z-index: 89;
     }
 
     .header a:hover {
@@ -410,7 +412,7 @@ hr {
         display: block;
         height: 0px;
         border: 0;
-        border-top: 6px solid #e3e3b0 !important;
+        border-top: 7px solid #e3e3b0 !important;
     }
 
     /* index */
